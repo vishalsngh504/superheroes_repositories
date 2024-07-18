@@ -2,3 +2,5 @@
 
 #command to give output in linux terminal
 echo "I am Hulk"
+
+echo "ls"
