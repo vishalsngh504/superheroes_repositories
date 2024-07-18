@@ -1,1 +1,1 @@
-#####This directory for learning Git, Github and GitLabs!!!!!!!!
+# This directory for learning Git, Github and GitLab!!!!
